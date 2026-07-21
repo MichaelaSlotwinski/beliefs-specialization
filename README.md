@@ -21,7 +21,10 @@ This page collects materials related to the project.
 ## 🎲 Intervention Material:
 - Transcript Video [Transcript German (original)](slides.pdf); [Transcript English](slides.pdf)
 
+---
 
+## 🗂️ Other Documentation:
+- Pre-Analysis Plan [PAP](PAP.pdf)
 ---
 
 ## ✉️ Contact
