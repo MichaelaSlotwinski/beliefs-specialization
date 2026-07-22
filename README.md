@@ -20,7 +20,7 @@ Draft: [Most Recent Draft](https://drive.google.com/file/d/1Jzu5G5on-vKyiUuKDEo6
 ---
 
 ## 🎲 Intervention Material:
-- Transcript Video [Transcript German (original)](slides.pdf); [Transcript English](slides.pdf)
+- Transcript Video [Transcript German (original)](Video_Transcript_G.pdf); [Transcript English](Video_Transcript_E.pdf)
 
 ---
 
