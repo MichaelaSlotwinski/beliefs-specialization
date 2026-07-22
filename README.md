@@ -14,8 +14,8 @@ Draft: [Most Recent Draft](https://drive.google.com/file/d/1Jzu5G5on-vKyiUuKDEo6
 ---
 
 ## 📋 Questionaires:
-- Main Survey: [Main Survey German (original)](#); [Main Survey English](#)
-- Follow-Up: [Follow-up German (original)](#); [Follow-up English](#)
+- Main Survey: [Main Survey German (original)](Divorce_Baseline_GER_documentation.pdf); [Main Survey English](Divorce_Baseline_ENG_documentation.pdf)
+- Follow-Up: [Follow-up German (original)](Divorce_FU_GER_documentation.pdf); [Follow-up English](Divorce_FU_ENG_documentation.pdf)
 
 ---
 
