@@ -9,7 +9,7 @@ Draft: [Most Recent Draft](https://drive.google.com/file/d/1Jzu5G5on-vKyiUuKDEo6
 ---
 
 ## 📄 Study Invitation:
-- Invitation: [Letter German (original)](paper.pdf); [Letter English ](paper.pdf)
+- Invitation: [Letter German (original)](Inviteletter_GER.pdf); [Letter English ](Inviteletter_ENG.pdf)
 
 ---
 
